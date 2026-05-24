@@ -86,7 +86,7 @@ FreeCAD | Salome | OpenFOAM | SolidWorks | Onshape | Onscale | Simscale | Ansys 
 Markdown | LaTeX | Overleaf | Zotero | Mendeley | Canva | Inkscape | LibreOffice | Xournal++ | Jupyter Notebook | Google Colab
 
 ### Coding
-Linux | VS Code | | Github | C++ | Shell Programming | Python | JavaScript | SQL (SQLite3 DB)
+Linux | VS Code | Github | C++ | Shell Programming | Python | JavaScript | SQL (SQLite3 DB)
 
 ### Financial
 TradingView | Pinescript | Quantitative Strategy Analysis | Algo-Trading | C++ HFT Coding | Financial Dashboards | Strategy Backtesting | WFA | Monte Carlo Anslysis
