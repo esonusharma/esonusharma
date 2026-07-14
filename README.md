@@ -42,14 +42,13 @@
    [Journal Insights](https://journalinsights.elsevier.com/journals/0196-8904)
    [Article Link](https://doi.org/10.1016/j.enconman.2017.04.059)
 
-3. **Performance of Savonius Rotors: A Review**  
+4. **Performance of Savonius Rotors: A Review**  
    Journal: *ECS Transactions*
    Insights: Scopus, SCImago Journal Rank (SJR): 0.181
    [Journal Insights](https://www.scopus.com/sourceid/3400148107)
    [Article Link](https://doi.org/10.1149/10701.6655ecst)
 
-4. **Performance Optimization of Conventional Savonius Rotor for Different Construction Materials through CFD Study**
-   Journal: *Energy Conversion and Management*  
+6. **Performance Optimization of Conventional Savonius Rotor for Different Construction Materials through CFD Study**
    Journal: SSRG International Journal of Civil Engineering
    Insights: Scopus, SCImago Journal Rank (SJR): 0.222, Q2
    [Journal Insights](https://www.scopus.com/sourceid/21101155954)
