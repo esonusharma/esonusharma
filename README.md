@@ -21,7 +21,7 @@
 **Outstanding Reviewer**
 
 - Journal: **Energy Conversion and Management**
-- Insights: SCIE, Impact Factor: 10.9, Q1, SJR 2.6
+- Insights: SCIE, Impact Factor: 11.8, Q1: Scimagojr, SCImago Journal Rank (SJR: 2.6), H-Index: 293
 - [Journal Insights](https://journalinsights.elsevier.com/journals/0196-8904)
 
 ---
@@ -32,21 +32,27 @@
 
 1. **Performance improvement of Savonius rotor using multiple quarter blades — A CFD investigation**  
    Journal: *Energy Conversion and Management*  
-   Insights: SCIE, Impact Factor 10.9, Q1, SJR 2.6  
+   Insights: SCIE, Impact Factor: 11.8, Q1: Scimagojr, SCImago Journal Rank (SJR: 2.6), H-Index: 293
+   [Journal Insights](https://journalinsights.elsevier.com/journals/0196-8904)
    [Article Link](https://doi.org/10.1016/j.enconman.2016.08.087)
 
 2. **CFD investigation to quantify the effect of layered multiple miniature blades on the performance of Savonius rotor**  
    Journal: *Energy Conversion and Management*  
-   Insights: SCIE, Impact Factor 10.9, Q1, SJR 2.6  
+   Insights: SCIE, Impact Factor: 11.8, Q1: Scimagojr, SCImago Journal Rank (SJR: 2.6), H-Index: 293
+   [Journal Insights](https://journalinsights.elsevier.com/journals/0196-8904)
    [Article Link](https://doi.org/10.1016/j.enconman.2017.04.059)
 
 3. **Performance of Savonius Rotors: A Review**  
-   Journal: *ECS Transactions* 
+   Journal: *ECS Transactions*
+   Insights: Scopus, SCImago Journal Rank (SJR): 0.181
+   [Journal Insights](https://www.scopus.com/sourceid/3400148107)
    [Article Link](https://doi.org/10.1149/10701.6655ecst)
 
 4. **Performance Optimization of Conventional Savonius Rotor for Different Construction Materials through CFD Study**
    Journal: *Energy Conversion and Management*  
-   Insights: Scopus
+   Journal: SSRG International Journal of Civil Engineering
+   Insights: Scopus, SCImago Journal Rank (SJR): 0.222, Q2
+   [Journal Insights](https://www.scopus.com/sourceid/21101155954)
    [Article Link](https://doi.org/10.14445/23488352/IJCE-V13I2P120)
 
 ---
